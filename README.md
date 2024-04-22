@@ -34,18 +34,18 @@ Folder Structure
 
 covid19-dashboard/
 │
-├── public/            # Static assets
+├── public/           
 │   └── 
 │
-├── src/               # Source files
-│   ├── components/    # React components
+├── src/               
+│   ├── components/    
         ├── LineChart.jsx
         ├── PieChart.jsx
         ├── StatisticalChart.jsx
-│   ├── App.css         # Data fetching and handling
-│   ├── App.jsx        # CSS styles (Tailwind CSS)
-│   ├── index.css        # Main component
-│   └── main.jsx       # Entry point
+│   ├── App.css         
+│   ├── App.jsx        
+│   ├── index.css        
+│   └── main.jsx      
 │
 └── README.md 
 Contributing
@@ -54,4 +54,5 @@ Contributions are welcome! Feel free to open issues and pull requests to suggest
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the LICENSE file for detail
+
